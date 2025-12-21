@@ -1,0 +1,1417 @@
+================================================================================
+RUST DETECTION - EVALUATION REPORT
+================================================================================
+
+Total images: 174
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+Average Rust Ratio: 3.38%
+Average Degradation Score: 3.38/100
+
+--------------------------------------------------------------------------------
+METRICS (with Ground Truth)
+--------------------------------------------------------------------------------
+Average IoU: 0.5167
+Average Dice: 0.6615
+Average Precision: 0.7329
+Average Recall: 0.6786
+
+--------------------------------------------------------------------------------
+PER-IMAGE RESULTS
+--------------------------------------------------------------------------------
+
+Image: 004.png
+  Rust Ratio: 0.86%
+  Degradation Score: 0.86/100
+  IoU: 0.3210
+  Dice: 0.4860
+  Precision: 0.4619
+  Recall: 0.5126
+
+Image: 006.png
+  Rust Ratio: 0.37%
+  Degradation Score: 0.37/100
+  IoU: 0.3401
+  Dice: 0.5076
+  Precision: 0.9865
+  Recall: 0.3417
+
+Image: 009.png
+  Rust Ratio: 7.91%
+  Degradation Score: 7.91/100
+  IoU: 0.2537
+  Dice: 0.4047
+  Precision: 0.5616
+  Recall: 0.3163
+
+Image: 012.png
+  Rust Ratio: 0.93%
+  Degradation Score: 0.93/100
+  IoU: 0.3521
+  Dice: 0.5208
+  Precision: 0.4374
+  Recall: 0.6435
+
+Image: 014.png
+  Rust Ratio: 10.11%
+  Degradation Score: 10.11/100
+  IoU: 0.6490
+  Dice: 0.7871
+  Precision: 0.9758
+  Recall: 0.6596
+
+Image: 026.png
+  Rust Ratio: 0.24%
+  Degradation Score: 0.24/100
+  IoU: 0.2492
+  Dice: 0.3990
+  Precision: 0.9810
+  Recall: 0.2504
+
+Image: 038.png
+  Rust Ratio: 3.28%
+  Degradation Score: 3.28/100
+  IoU: 0.3837
+  Dice: 0.5545
+  Precision: 0.4857
+  Recall: 0.6462
+
+Image: 040.png
+  Rust Ratio: 3.12%
+  Degradation Score: 3.12/100
+  IoU: 0.5984
+  Dice: 0.7488
+  Precision: 0.6686
+  Recall: 0.8508
+
+Image: 041.png
+  Rust Ratio: 1.39%
+  Degradation Score: 1.39/100
+  IoU: 0.5902
+  Dice: 0.7423
+  Precision: 0.8975
+  Recall: 0.6328
+
+Image: 044.png
+  Rust Ratio: 0.42%
+  Degradation Score: 0.42/100
+  IoU: 0.4764
+  Dice: 0.6454
+  Precision: 0.9539
+  Recall: 0.4876
+
+Image: 046.png
+  Rust Ratio: 13.17%
+  Degradation Score: 13.17/100
+  IoU: 0.7510
+  Dice: 0.8578
+  Precision: 0.9941
+  Recall: 0.7543
+
+Image: 048.png
+  Rust Ratio: 4.84%
+  Degradation Score: 4.84/100
+  IoU: 0.5675
+  Dice: 0.7241
+  Precision: 0.8728
+  Recall: 0.6186
+
+Image: 051.png
+  Rust Ratio: 4.18%
+  Degradation Score: 4.18/100
+  IoU: 0.5426
+  Dice: 0.7035
+  Precision: 0.6695
+  Recall: 0.7412
+
+Image: 056.png
+  Rust Ratio: 0.11%
+  Degradation Score: 0.11/100
+  IoU: 0.4777
+  Dice: 0.6465
+  Precision: 0.5483
+  Recall: 0.7877
+
+Image: 066.png
+  Rust Ratio: 4.28%
+  Degradation Score: 4.28/100
+  IoU: 0.5799
+  Dice: 0.7341
+  Precision: 0.9859
+  Recall: 0.5847
+
+Image: 067.png
+  Rust Ratio: 15.68%
+  Degradation Score: 15.68/100
+  IoU: 0.8164
+  Dice: 0.8989
+  Precision: 0.9568
+  Recall: 0.8476
+
+Image: 077.png
+  Rust Ratio: 0.15%
+  Degradation Score: 0.15/100
+  IoU: 0.6850
+  Dice: 0.8131
+  Precision: 0.7881
+  Recall: 0.8397
+
+Image: 078.png
+  Rust Ratio: 0.56%
+  Degradation Score: 0.56/100
+  IoU: 0.3027
+  Dice: 0.4647
+  Precision: 0.5382
+  Recall: 0.4088
+
+Image: 080.png
+  Rust Ratio: 0.97%
+  Degradation Score: 0.97/100
+  IoU: 0.7640
+  Dice: 0.8662
+  Precision: 0.9153
+  Recall: 0.8222
+
+Image: 086.png
+  Rust Ratio: 2.34%
+  Degradation Score: 2.34/100
+  IoU: 0.2788
+  Dice: 0.4361
+  Precision: 0.9929
+  Recall: 0.2794
+
+Image: 088.png
+  Rust Ratio: 2.10%
+  Degradation Score: 2.10/100
+  IoU: 0.3163
+  Dice: 0.4806
+  Precision: 0.5033
+  Recall: 0.4598
+
+Image: 096.png
+  Rust Ratio: 7.67%
+  Degradation Score: 7.67/100
+  IoU: 0.7811
+  Dice: 0.8771
+  Precision: 0.8417
+  Recall: 0.9157
+
+Image: 097.png
+  Rust Ratio: 7.36%
+  Degradation Score: 7.36/100
+  IoU: 0.7611
+  Dice: 0.8644
+  Precision: 0.8409
+  Recall: 0.8892
+
+Image: 099.png
+  Rust Ratio: 3.87%
+  Degradation Score: 3.87/100
+  IoU: 0.2434
+  Dice: 0.3915
+  Precision: 0.4419
+  Recall: 0.3514
+
+Image: 105.png
+  Rust Ratio: 1.79%
+  Degradation Score: 1.79/100
+  IoU: 0.6835
+  Dice: 0.8120
+  Precision: 0.9619
+  Recall: 0.7025
+
+Image: 116.png
+  Rust Ratio: 6.11%
+  Degradation Score: 6.11/100
+  IoU: 0.3010
+  Dice: 0.4628
+  Precision: 0.9295
+  Recall: 0.3081
+
+Image: 119.png
+  Rust Ratio: 0.09%
+  Degradation Score: 0.09/100
+  IoU: 0.6919
+  Dice: 0.8179
+  Precision: 0.7764
+  Recall: 0.8640
+
+Image: 120.png
+  Rust Ratio: 1.15%
+  Degradation Score: 1.15/100
+  IoU: 0.1872
+  Dice: 0.3153
+  Precision: 0.8678
+  Recall: 0.1927
+
+Image: 122.png
+  Rust Ratio: 0.41%
+  Degradation Score: 0.41/100
+  IoU: 0.7528
+  Dice: 0.8590
+  Precision: 0.9554
+  Recall: 0.7802
+
+Image: 130.png
+  Rust Ratio: 2.33%
+  Degradation Score: 2.33/100
+  IoU: 0.2551
+  Dice: 0.4065
+  Precision: 0.3408
+  Recall: 0.5037
+
+Image: 140.png
+  Rust Ratio: 0.82%
+  Degradation Score: 0.82/100
+  IoU: 0.4676
+  Dice: 0.6372
+  Precision: 0.9629
+  Recall: 0.4762
+
+Image: 143.png
+  Rust Ratio: 5.57%
+  Degradation Score: 5.57/100
+  IoU: 0.3125
+  Dice: 0.4762
+  Precision: 0.4659
+  Recall: 0.4870
+
+Image: 144.png
+  Rust Ratio: 6.91%
+  Degradation Score: 6.91/100
+  IoU: 0.3797
+  Dice: 0.5504
+  Precision: 0.9729
+  Recall: 0.3837
+
+Image: 150.png
+  Rust Ratio: 0.37%
+  Degradation Score: 0.37/100
+  IoU: 0.7057
+  Dice: 0.8275
+  Precision: 0.9473
+  Recall: 0.7345
+
+Image: 153.png
+  Rust Ratio: 7.45%
+  Degradation Score: 7.45/100
+  IoU: 0.4848
+  Dice: 0.6530
+  Precision: 0.5401
+  Recall: 0.8257
+
+Image: 154.png
+  Rust Ratio: 1.34%
+  Degradation Score: 1.34/100
+  IoU: 0.4487
+  Dice: 0.6195
+  Precision: 0.9972
+  Recall: 0.4493
+
+Image: 157.png
+  Rust Ratio: 3.26%
+  Degradation Score: 3.26/100
+  IoU: 0.6389
+  Dice: 0.7797
+  Precision: 0.9002
+  Recall: 0.6876
+
+Image: 165.png
+  Rust Ratio: 2.25%
+  Degradation Score: 2.25/100
+  IoU: 0.5557
+  Dice: 0.7144
+  Precision: 0.5617
+  Recall: 0.9811
+
+Image: 169.png
+  Rust Ratio: 3.28%
+  Degradation Score: 3.28/100
+  IoU: 0.4204
+  Dice: 0.5920
+  Precision: 0.7110
+  Recall: 0.5071
+
+Image: 171.png
+  Rust Ratio: 4.42%
+  Degradation Score: 4.42/100
+  IoU: 0.5687
+  Dice: 0.7250
+  Precision: 0.9399
+  Recall: 0.5901
+
+Image: 179.png
+  Rust Ratio: 1.76%
+  Degradation Score: 1.76/100
+  IoU: 0.5429
+  Dice: 0.7037
+  Precision: 0.7934
+  Recall: 0.6322
+
+Image: 180.png
+  Rust Ratio: 7.28%
+  Degradation Score: 7.28/100
+  IoU: 0.6909
+  Dice: 0.8172
+  Precision: 0.7625
+  Recall: 0.8803
+
+Image: 188.png
+  Rust Ratio: 1.98%
+  Degradation Score: 1.98/100
+  IoU: 0.2917
+  Dice: 0.4516
+  Precision: 0.4054
+  Recall: 0.5098
+
+Image: 196.png
+  Rust Ratio: 14.63%
+  Degradation Score: 14.63/100
+  IoU: 0.5641
+  Dice: 0.7213
+  Precision: 0.5778
+  Recall: 0.9596
+
+Image: 198.png
+  Rust Ratio: 9.88%
+  Degradation Score: 9.88/100
+  IoU: 0.3104
+  Dice: 0.4737
+  Precision: 0.9458
+  Recall: 0.3160
+
+Image: 206.png
+  Rust Ratio: 0.20%
+  Degradation Score: 0.20/100
+  IoU: 0.7713
+  Dice: 0.8709
+  Precision: 0.9883
+  Recall: 0.7785
+
+Image: 209.png
+  Rust Ratio: 0.56%
+  Degradation Score: 0.56/100
+  IoU: 0.2846
+  Dice: 0.4430
+  Precision: 0.3131
+  Recall: 0.7573
+
+Image: 210.png
+  Rust Ratio: 1.22%
+  Degradation Score: 1.22/100
+  IoU: 0.6940
+  Dice: 0.8194
+  Precision: 0.7346
+  Recall: 0.9263
+
+Image: 211.png
+  Rust Ratio: 3.01%
+  Degradation Score: 3.01/100
+  IoU: 0.3378
+  Dice: 0.5050
+  Precision: 0.3423
+  Recall: 0.9624
+
+Image: 223.png
+  Rust Ratio: 0.24%
+  Degradation Score: 0.24/100
+  IoU: 0.4471
+  Dice: 0.6179
+  Precision: 0.9475
+  Recall: 0.4585
+
+Image: 226.png
+  Rust Ratio: 9.93%
+  Degradation Score: 9.93/100
+  IoU: 0.4209
+  Dice: 0.5924
+  Precision: 0.9939
+  Recall: 0.4220
+
+Image: 228.png
+  Rust Ratio: 3.25%
+  Degradation Score: 3.25/100
+  IoU: 0.2450
+  Dice: 0.3936
+  Precision: 0.2553
+  Recall: 0.8593
+
+Image: 232.png
+  Rust Ratio: 8.02%
+  Degradation Score: 8.02/100
+  IoU: 0.4701
+  Dice: 0.6396
+  Precision: 0.9611
+  Recall: 0.4792
+
+Image: 237.png
+  Rust Ratio: 6.49%
+  Degradation Score: 6.49/100
+  IoU: 0.3017
+  Dice: 0.4635
+  Precision: 0.3079
+  Recall: 0.9376
+
+Image: 238.png
+  Rust Ratio: 3.72%
+  Degradation Score: 3.72/100
+  IoU: 0.3284
+  Dice: 0.4945
+  Precision: 0.3800
+  Recall: 0.7076
+
+Image: 251.png
+  Rust Ratio: 18.70%
+  Degradation Score: 18.70/100
+  IoU: 0.3908
+  Dice: 0.5620
+  Precision: 0.5217
+  Recall: 0.6089
+
+Image: 257.png
+  Rust Ratio: 9.18%
+  Degradation Score: 9.18/100
+  IoU: 0.6875
+  Dice: 0.8148
+  Precision: 0.7213
+  Recall: 0.9362
+
+Image: 277.png
+  Rust Ratio: 0.20%
+  Degradation Score: 0.20/100
+  IoU: 0.5577
+  Dice: 0.7160
+  Precision: 0.9067
+  Recall: 0.5916
+
+Image: 281.png
+  Rust Ratio: 9.85%
+  Degradation Score: 9.85/100
+  IoU: 0.5262
+  Dice: 0.6896
+  Precision: 0.6107
+  Recall: 0.7918
+
+Image: 283.png
+  Rust Ratio: 5.72%
+  Degradation Score: 5.72/100
+  IoU: 0.2386
+  Dice: 0.3852
+  Precision: 0.2771
+  Recall: 0.6319
+
+Image: 286.png
+  Rust Ratio: 4.77%
+  Degradation Score: 4.77/100
+  IoU: 0.5877
+  Dice: 0.7404
+  Precision: 0.7134
+  Recall: 0.7694
+
+Image: 287.png
+  Rust Ratio: 2.39%
+  Degradation Score: 2.39/100
+  IoU: 0.6718
+  Dice: 0.8037
+  Precision: 0.9594
+  Recall: 0.6914
+
+Image: 293.png
+  Rust Ratio: 1.44%
+  Degradation Score: 1.44/100
+  IoU: 0.4037
+  Dice: 0.5752
+  Precision: 0.5003
+  Recall: 0.6764
+
+Image: 311.png
+  Rust Ratio: 0.49%
+  Degradation Score: 0.49/100
+  IoU: 0.3357
+  Dice: 0.5026
+  Precision: 0.4880
+  Recall: 0.5182
+
+Image: 313.png
+  Rust Ratio: 5.65%
+  Degradation Score: 5.65/100
+  IoU: 0.5290
+  Dice: 0.6920
+  Precision: 0.5483
+  Recall: 0.9378
+
+Image: 324.png
+  Rust Ratio: 1.95%
+  Degradation Score: 1.95/100
+  IoU: 0.3930
+  Dice: 0.5642
+  Precision: 0.5328
+  Recall: 0.5995
+
+Image: 325.png
+  Rust Ratio: 4.72%
+  Degradation Score: 4.72/100
+  IoU: 0.3713
+  Dice: 0.5416
+  Precision: 0.5405
+  Recall: 0.5426
+
+Image: 327.png
+  Rust Ratio: 0.99%
+  Degradation Score: 0.99/100
+  IoU: 0.6862
+  Dice: 0.8139
+  Precision: 0.9598
+  Recall: 0.7065
+
+Image: 335.png
+  Rust Ratio: 6.90%
+  Degradation Score: 6.90/100
+  IoU: 0.4575
+  Dice: 0.6278
+  Precision: 0.5455
+  Recall: 0.7394
+
+Image: 340.png
+  Rust Ratio: 1.92%
+  Degradation Score: 1.92/100
+  IoU: 0.1906
+  Dice: 0.3202
+  Precision: 0.7353
+  Recall: 0.2047
+
+Image: 348.png
+  Rust Ratio: 3.08%
+  Degradation Score: 3.08/100
+  IoU: 0.3168
+  Dice: 0.4812
+  Precision: 0.4816
+  Recall: 0.4808
+
+Image: 353.png
+  Rust Ratio: 1.94%
+  Degradation Score: 1.94/100
+  IoU: 0.2851
+  Dice: 0.4437
+  Precision: 0.9306
+  Recall: 0.2913
+
+Image: 355.png
+  Rust Ratio: 5.39%
+  Degradation Score: 5.39/100
+  IoU: 0.4556
+  Dice: 0.6260
+  Precision: 0.4660
+  Recall: 0.9534
+
+Image: 359.png
+  Rust Ratio: 5.14%
+  Degradation Score: 5.14/100
+  IoU: 0.4305
+  Dice: 0.6018
+  Precision: 0.9300
+  Recall: 0.4449
+
+Image: 360.png
+  Rust Ratio: 3.53%
+  Degradation Score: 3.53/100
+  IoU: 0.6207
+  Dice: 0.7659
+  Precision: 0.8308
+  Recall: 0.7105
+
+Image: 365.png
+  Rust Ratio: 0.31%
+  Degradation Score: 0.31/100
+  IoU: 0.3400
+  Dice: 0.5075
+  Precision: 0.4354
+  Recall: 0.6081
+
+Image: 366.png
+  Rust Ratio: 0.38%
+  Degradation Score: 0.38/100
+  IoU: 0.5101
+  Dice: 0.6756
+  Precision: 0.5135
+  Recall: 0.9870
+
+Image: 373.png
+  Rust Ratio: 1.42%
+  Degradation Score: 1.42/100
+  IoU: 0.5120
+  Dice: 0.6772
+  Precision: 0.9664
+  Recall: 0.5212
+
+Image: 382.png
+  Rust Ratio: 0.11%
+  Degradation Score: 0.11/100
+  IoU: 0.2691
+  Dice: 0.4241
+  Precision: 0.8372
+  Recall: 0.2840
+
+Image: 383.png
+  Rust Ratio: 8.00%
+  Degradation Score: 8.00/100
+  IoU: 0.3019
+  Dice: 0.4638
+  Precision: 0.3591
+  Recall: 0.6548
+
+Image: 387.png
+  Rust Ratio: 2.62%
+  Degradation Score: 2.62/100
+  IoU: 0.7651
+  Dice: 0.8669
+  Precision: 0.8588
+  Recall: 0.8752
+
+Image: 393.png
+  Rust Ratio: 1.40%
+  Degradation Score: 1.40/100
+  IoU: 0.3769
+  Dice: 0.5475
+  Precision: 0.6419
+  Recall: 0.4773
+
+Image: 397.png
+  Rust Ratio: 12.17%
+  Degradation Score: 12.17/100
+  IoU: 0.5188
+  Dice: 0.6832
+  Precision: 0.9861
+  Recall: 0.5226
+
+Image: 403.png
+  Rust Ratio: 4.60%
+  Degradation Score: 4.60/100
+  IoU: 0.3473
+  Dice: 0.5155
+  Precision: 0.9513
+  Recall: 0.3536
+
+Image: 419.png
+  Rust Ratio: 0.59%
+  Degradation Score: 0.59/100
+  IoU: 0.7938
+  Dice: 0.8851
+  Precision: 0.8459
+  Recall: 0.9280
+
+Image: 430.png
+  Rust Ratio: 17.97%
+  Degradation Score: 17.97/100
+  IoU: 0.3205
+  Dice: 0.4854
+  Precision: 0.9988
+  Recall: 0.3206
+
+Image: 442.png
+  Rust Ratio: 9.05%
+  Degradation Score: 9.05/100
+  IoU: 0.7125
+  Dice: 0.8321
+  Precision: 0.7606
+  Recall: 0.9185
+
+Image: 443.png
+  Rust Ratio: 2.73%
+  Degradation Score: 2.73/100
+  IoU: 0.5888
+  Dice: 0.7412
+  Precision: 0.9786
+  Recall: 0.5964
+
+Image: 445.png
+  Rust Ratio: 0.46%
+  Degradation Score: 0.46/100
+  IoU: 0.5272
+  Dice: 0.6904
+  Precision: 0.7323
+  Recall: 0.6531
+
+Image: 454.png
+  Rust Ratio: 4.60%
+  Degradation Score: 4.60/100
+  IoU: 0.2303
+  Dice: 0.3743
+  Precision: 0.5114
+  Recall: 0.2952
+
+Image: 455.png
+  Rust Ratio: 2.74%
+  Degradation Score: 2.74/100
+  IoU: 0.2809
+  Dice: 0.4386
+  Precision: 0.2908
+  Recall: 0.8918
+
+Image: 458.png
+  Rust Ratio: 1.69%
+  Degradation Score: 1.69/100
+  IoU: 0.4088
+  Dice: 0.5804
+  Precision: 0.5078
+  Recall: 0.6771
+
+Image: 461.png
+  Rust Ratio: 1.54%
+  Degradation Score: 1.54/100
+  IoU: 0.3815
+  Dice: 0.5523
+  Precision: 0.3997
+  Recall: 0.8934
+
+Image: 462.png
+  Rust Ratio: 5.81%
+  Degradation Score: 5.81/100
+  IoU: 0.3921
+  Dice: 0.5634
+  Precision: 0.5696
+  Recall: 0.5572
+
+Image: 463.png
+  Rust Ratio: 0.69%
+  Degradation Score: 0.69/100
+  IoU: 0.7357
+  Dice: 0.8477
+  Precision: 0.8251
+  Recall: 0.8716
+
+Image: 465.png
+  Rust Ratio: 2.57%
+  Degradation Score: 2.57/100
+  IoU: 0.1776
+  Dice: 0.3017
+  Precision: 0.9855
+  Recall: 0.1781
+
+Image: 467.png
+  Rust Ratio: 1.59%
+  Degradation Score: 1.59/100
+  IoU: 0.8278
+  Dice: 0.9058
+  Precision: 0.8484
+  Recall: 0.9715
+
+Image: 469.png
+  Rust Ratio: 1.69%
+  Degradation Score: 1.69/100
+  IoU: 0.7713
+  Dice: 0.8709
+  Precision: 0.8274
+  Recall: 0.9192
+
+Image: 473.png
+  Rust Ratio: 3.25%
+  Degradation Score: 3.25/100
+  IoU: 0.7755
+  Dice: 0.8735
+  Precision: 0.8701
+  Recall: 0.8770
+
+Image: 478.png
+  Rust Ratio: 2.22%
+  Degradation Score: 2.22/100
+  IoU: 0.5482
+  Dice: 0.7081
+  Precision: 0.6078
+  Recall: 0.8481
+
+Image: 485.png
+  Rust Ratio: 12.75%
+  Degradation Score: 12.75/100
+  IoU: 0.7993
+  Dice: 0.8885
+  Precision: 0.9808
+  Recall: 0.8120
+
+Image: 491.png
+  Rust Ratio: 0.64%
+  Degradation Score: 0.64/100
+  IoU: 0.2947
+  Dice: 0.4553
+  Precision: 0.6607
+  Recall: 0.3473
+
+Image: 494.png
+  Rust Ratio: 1.67%
+  Degradation Score: 1.67/100
+  IoU: 0.4194
+  Dice: 0.5909
+  Precision: 0.4769
+  Recall: 0.7766
+
+Image: 509.png
+  Rust Ratio: 2.96%
+  Degradation Score: 2.96/100
+  IoU: 0.7596
+  Dice: 0.8633
+  Precision: 0.9066
+  Recall: 0.8240
+
+Image: 516.png
+  Rust Ratio: 0.22%
+  Degradation Score: 0.22/100
+  IoU: 0.2681
+  Dice: 0.4228
+  Precision: 0.9996
+  Recall: 0.2681
+
+Image: 520.png
+  Rust Ratio: 0.27%
+  Degradation Score: 0.27/100
+  IoU: 0.2454
+  Dice: 0.3941
+  Precision: 0.4886
+  Recall: 0.3303
+
+Image: 522.png
+  Rust Ratio: 1.58%
+  Degradation Score: 1.58/100
+  IoU: 0.8838
+  Dice: 0.9383
+  Precision: 0.8904
+  Recall: 0.9918
+
+Image: 525.png
+  Rust Ratio: 0.20%
+  Degradation Score: 0.20/100
+  IoU: 0.6801
+  Dice: 0.8096
+  Precision: 0.7499
+  Recall: 0.8796
+
+Image: 527.png
+  Rust Ratio: 2.09%
+  Degradation Score: 2.09/100
+  IoU: 0.4531
+  Dice: 0.6236
+  Precision: 0.7995
+  Recall: 0.5111
+
+Image: 530.png
+  Rust Ratio: 0.31%
+  Degradation Score: 0.31/100
+  IoU: 0.3696
+  Dice: 0.5397
+  Precision: 0.5292
+  Recall: 0.5506
+
+Image: 533.png
+  Rust Ratio: 4.59%
+  Degradation Score: 4.59/100
+  IoU: 0.6782
+  Dice: 0.8083
+  Precision: 0.7916
+  Recall: 0.8257
+
+Image: 538.png
+  Rust Ratio: 4.13%
+  Degradation Score: 4.13/100
+  IoU: 0.8378
+  Dice: 0.9117
+  Precision: 0.9193
+  Recall: 0.9043
+
+Image: 545.png
+  Rust Ratio: 11.38%
+  Degradation Score: 11.38/100
+  IoU: 0.4292
+  Dice: 0.6006
+  Precision: 0.5283
+  Recall: 0.6958
+
+Image: 549.png
+  Rust Ratio: 4.21%
+  Degradation Score: 4.21/100
+  IoU: 0.8278
+  Dice: 0.9058
+  Precision: 0.9074
+  Recall: 0.9042
+
+Image: 550.png
+  Rust Ratio: 12.56%
+  Degradation Score: 12.56/100
+  IoU: 0.4598
+  Dice: 0.6300
+  Precision: 0.9949
+  Recall: 0.4609
+
+Image: 557.png
+  Rust Ratio: 3.39%
+  Degradation Score: 3.39/100
+  IoU: 0.7334
+  Dice: 0.8462
+  Precision: 0.9013
+  Recall: 0.7975
+
+Image: 558.png
+  Rust Ratio: 0.53%
+  Degradation Score: 0.53/100
+  IoU: 0.6814
+  Dice: 0.8105
+  Precision: 0.8176
+  Recall: 0.8035
+
+Image: 559.png
+  Rust Ratio: 6.21%
+  Degradation Score: 6.21/100
+  IoU: 0.2871
+  Dice: 0.4461
+  Precision: 0.6404
+  Recall: 0.3422
+
+Image: 561.png
+  Rust Ratio: 0.21%
+  Degradation Score: 0.21/100
+  IoU: 0.3995
+  Dice: 0.5709
+  Precision: 0.7500
+  Recall: 0.4609
+
+Image: 563.png
+  Rust Ratio: 3.31%
+  Degradation Score: 3.31/100
+  IoU: 0.7873
+  Dice: 0.8810
+  Precision: 0.9033
+  Recall: 0.8599
+
+Image: 573.png
+  Rust Ratio: 2.55%
+  Degradation Score: 2.55/100
+  IoU: 0.3154
+  Dice: 0.4796
+  Precision: 0.5076
+  Recall: 0.4545
+
+Image: 579.png
+  Rust Ratio: 1.35%
+  Degradation Score: 1.35/100
+  IoU: 0.5214
+  Dice: 0.6854
+  Precision: 0.9732
+  Recall: 0.5290
+
+Image: 580.png
+  Rust Ratio: 0.90%
+  Degradation Score: 0.90/100
+  IoU: 0.7356
+  Dice: 0.8477
+  Precision: 0.7648
+  Recall: 0.9508
+
+Image: 590.png
+  Rust Ratio: 0.24%
+  Degradation Score: 0.24/100
+  IoU: 0.4945
+  Dice: 0.6618
+  Precision: 0.6974
+  Recall: 0.6296
+
+Image: 597.png
+  Rust Ratio: 0.03%
+  Degradation Score: 0.03/100
+  IoU: 0.6197
+  Dice: 0.7652
+  Precision: 0.9640
+  Recall: 0.6344
+
+Image: 598.png
+  Rust Ratio: 0.50%
+  Degradation Score: 0.50/100
+  IoU: 0.6696
+  Dice: 0.8021
+  Precision: 0.7771
+  Recall: 0.8288
+
+Image: 599.png
+  Rust Ratio: 0.37%
+  Degradation Score: 0.37/100
+  IoU: 0.4888
+  Dice: 0.6566
+  Precision: 0.9505
+  Recall: 0.5015
+
+Image: 604.png
+  Rust Ratio: 3.57%
+  Degradation Score: 3.57/100
+  IoU: 0.6680
+  Dice: 0.8010
+  Precision: 0.6806
+  Recall: 0.9732
+
+Image: 605.png
+  Rust Ratio: 0.35%
+  Degradation Score: 0.35/100
+  IoU: 0.3291
+  Dice: 0.4952
+  Precision: 0.5760
+  Recall: 0.4344
+
+Image: 607.png
+  Rust Ratio: 0.69%
+  Degradation Score: 0.69/100
+  IoU: 0.5031
+  Dice: 0.6694
+  Precision: 0.5057
+  Recall: 0.9897
+
+Image: 609.png
+  Rust Ratio: 7.66%
+  Degradation Score: 7.66/100
+  IoU: 0.6503
+  Dice: 0.7881
+  Precision: 0.6512
+  Recall: 0.9979
+
+Image: 611.png
+  Rust Ratio: 1.75%
+  Degradation Score: 1.75/100
+  IoU: 0.7673
+  Dice: 0.8684
+  Precision: 0.9106
+  Recall: 0.8298
+
+Image: 613.png
+  Rust Ratio: 4.02%
+  Degradation Score: 4.02/100
+  IoU: 0.3333
+  Dice: 0.4999
+  Precision: 0.3521
+  Recall: 0.8619
+
+Image: 616.png
+  Rust Ratio: 0.22%
+  Degradation Score: 0.22/100
+  IoU: 0.6250
+  Dice: 0.7693
+  Precision: 0.9996
+  Recall: 0.6252
+
+Image: 617.png
+  Rust Ratio: 3.12%
+  Degradation Score: 3.12/100
+  IoU: 0.4098
+  Dice: 0.5814
+  Precision: 0.4834
+  Recall: 0.7292
+
+Image: 624.png
+  Rust Ratio: 1.31%
+  Degradation Score: 1.31/100
+  IoU: 0.5616
+  Dice: 0.7193
+  Precision: 0.5863
+  Recall: 0.9303
+
+Image: 628.png
+  Rust Ratio: 0.57%
+  Degradation Score: 0.57/100
+  IoU: 0.5062
+  Dice: 0.6722
+  Precision: 0.6889
+  Recall: 0.6562
+
+Image: 629.png
+  Rust Ratio: 1.79%
+  Degradation Score: 1.79/100
+  IoU: 0.8609
+  Dice: 0.9252
+  Precision: 0.9563
+  Recall: 0.8961
+
+Image: 631.png
+  Rust Ratio: 2.07%
+  Degradation Score: 2.07/100
+  IoU: 0.3825
+  Dice: 0.5534
+  Precision: 0.5174
+  Recall: 0.5947
+
+Image: 635.png
+  Rust Ratio: 1.50%
+  Degradation Score: 1.50/100
+  IoU: 0.7596
+  Dice: 0.8634
+  Precision: 0.9370
+  Recall: 0.8005
+
+Image: 637.png
+  Rust Ratio: 2.06%
+  Degradation Score: 2.06/100
+  IoU: 0.3324
+  Dice: 0.4989
+  Precision: 0.4329
+  Recall: 0.5888
+
+Image: 638.png
+  Rust Ratio: 2.60%
+  Degradation Score: 2.60/100
+  IoU: 0.7897
+  Dice: 0.8825
+  Precision: 0.8379
+  Recall: 0.9321
+
+Image: 639.png
+  Rust Ratio: 0.42%
+  Degradation Score: 0.42/100
+  IoU: 0.8820
+  Dice: 0.9373
+  Precision: 0.9952
+  Recall: 0.8858
+
+Image: 642.png
+  Rust Ratio: 1.11%
+  Degradation Score: 1.11/100
+  IoU: 0.4289
+  Dice: 0.6003
+  Precision: 0.8701
+  Recall: 0.4583
+
+Image: 645.png
+  Rust Ratio: 1.28%
+  Degradation Score: 1.28/100
+  IoU: 0.7816
+  Dice: 0.8774
+  Precision: 0.9581
+  Recall: 0.8093
+
+Image: 646.png
+  Rust Ratio: 1.58%
+  Degradation Score: 1.58/100
+  IoU: 0.4205
+  Dice: 0.5920
+  Precision: 0.9990
+  Recall: 0.4206
+
+Image: 649.png
+  Rust Ratio: 0.58%
+  Degradation Score: 0.58/100
+  IoU: 0.6782
+  Dice: 0.8082
+  Precision: 0.7018
+  Recall: 0.9528
+
+Image: 653.png
+  Rust Ratio: 5.11%
+  Degradation Score: 5.11/100
+  IoU: 0.8376
+  Dice: 0.9116
+  Precision: 0.9745
+  Recall: 0.8564
+
+Image: 657.png
+  Rust Ratio: 5.04%
+  Degradation Score: 5.04/100
+  IoU: 0.5812
+  Dice: 0.7351
+  Precision: 0.8813
+  Recall: 0.6306
+
+Image: 658.png
+  Rust Ratio: 4.48%
+  Degradation Score: 4.48/100
+  IoU: 0.4608
+  Dice: 0.6308
+  Precision: 0.4627
+  Recall: 0.9909
+
+Image: 663.png
+  Rust Ratio: 0.56%
+  Degradation Score: 0.56/100
+  IoU: 0.5925
+  Dice: 0.7441
+  Precision: 0.5947
+  Recall: 0.9938
+
+Image: 667.png
+  Rust Ratio: 0.88%
+  Degradation Score: 0.88/100
+  IoU: 0.3886
+  Dice: 0.5597
+  Precision: 0.4250
+  Recall: 0.8191
+
+Image: 673.png
+  Rust Ratio: 1.17%
+  Degradation Score: 1.17/100
+  IoU: 0.5452
+  Dice: 0.7056
+  Precision: 0.9579
+  Recall: 0.5586
+
+Image: 675.png
+  Rust Ratio: 2.16%
+  Degradation Score: 2.16/100
+  IoU: 0.7809
+  Dice: 0.8770
+  Precision: 0.9130
+  Recall: 0.8437
+
+Image: 677.png
+  Rust Ratio: 5.03%
+  Degradation Score: 5.03/100
+  IoU: 0.6880
+  Dice: 0.8151
+  Precision: 0.7241
+  Recall: 0.9324
+
+Image: 678.png
+  Rust Ratio: 2.04%
+  Degradation Score: 2.04/100
+  IoU: 0.7348
+  Dice: 0.8471
+  Precision: 0.9697
+  Recall: 0.7521
+
+Image: 680.png
+  Rust Ratio: 0.26%
+  Degradation Score: 0.26/100
+  IoU: 0.5135
+  Dice: 0.6785
+  Precision: 0.5226
+  Recall: 0.9673
+
+Image: 691.png
+  Rust Ratio: 0.76%
+  Degradation Score: 0.76/100
+  IoU: 0.2440
+  Dice: 0.3922
+  Precision: 0.2856
+  Recall: 0.6259
+
+Image: 695.png
+  Rust Ratio: 3.59%
+  Degradation Score: 3.59/100
+  IoU: 0.6227
+  Dice: 0.7675
+  Precision: 0.7891
+  Recall: 0.7471
+
+Image: 697.png
+  Rust Ratio: 1.81%
+  Degradation Score: 1.81/100
+  IoU: 0.2141
+  Dice: 0.3527
+  Precision: 0.2849
+  Recall: 0.4629
+
+Image: 699.png
+  Rust Ratio: 0.36%
+  Degradation Score: 0.36/100
+  IoU: 0.7858
+  Dice: 0.8800
+  Precision: 0.8798
+  Recall: 0.8803
+
+Image: 701.png
+  Rust Ratio: 0.79%
+  Degradation Score: 0.79/100
+  IoU: 0.5464
+  Dice: 0.7067
+  Precision: 0.7629
+  Recall: 0.6582
+
+Image: 703.png
+  Rust Ratio: 6.10%
+  Degradation Score: 6.10/100
+  IoU: 0.4229
+  Dice: 0.5945
+  Precision: 0.4243
+  Recall: 0.9923
+
+Image: 707.png
+  Rust Ratio: 0.36%
+  Degradation Score: 0.36/100
+  IoU: 0.4426
+  Dice: 0.6136
+  Precision: 0.9486
+  Recall: 0.4535
+
+Image: 709.png
+  Rust Ratio: 5.98%
+  Degradation Score: 5.98/100
+  IoU: 0.6420
+  Dice: 0.7820
+  Precision: 0.6458
+  Recall: 0.9910
+
+Image: 712.png
+  Rust Ratio: 10.88%
+  Degradation Score: 10.88/100
+  IoU: 0.6472
+  Dice: 0.7858
+  Precision: 0.7556
+  Recall: 0.8185
+
+Image: 714.png
+  Rust Ratio: 0.29%
+  Degradation Score: 0.29/100
+  IoU: 0.7610
+  Dice: 0.8643
+  Precision: 0.8976
+  Recall: 0.8334
+
+Image: 717.png
+  Rust Ratio: 2.17%
+  Degradation Score: 2.17/100
+  IoU: 0.5809
+  Dice: 0.7349
+  Precision: 0.5871
+  Recall: 0.9822
+
+Image: 721.png
+  Rust Ratio: 5.78%
+  Degradation Score: 5.78/100
+  IoU: 0.4822
+  Dice: 0.6507
+  Precision: 0.5049
+  Recall: 0.9147
+
+Image: 723.png
+  Rust Ratio: 0.10%
+  Degradation Score: 0.10/100
+  IoU: 0.4567
+  Dice: 0.6270
+  Precision: 0.9980
+  Recall: 0.4571
+
+Image: 731.png
+  Rust Ratio: 1.32%
+  Degradation Score: 1.32/100
+  IoU: 0.5634
+  Dice: 0.7207
+  Precision: 0.9277
+  Recall: 0.5892
+
+Image: 732.png
+  Rust Ratio: 0.90%
+  Degradation Score: 0.90/100
+  IoU: 0.3735
+  Dice: 0.5439
+  Precision: 0.3988
+  Recall: 0.8548
+
+Image: 738.png
+  Rust Ratio: 0.75%
+  Degradation Score: 0.75/100
+  IoU: 0.7589
+  Dice: 0.8629
+  Precision: 0.9646
+  Recall: 0.7806
+
+Image: 739.png
+  Rust Ratio: 2.83%
+  Degradation Score: 2.83/100
+  IoU: 0.2442
+  Dice: 0.3926
+  Precision: 0.9875
+  Recall: 0.2450
+
+================================================================================
