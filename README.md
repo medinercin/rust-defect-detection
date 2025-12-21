@@ -42,11 +42,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python rust_defect\run.py
 
-
-
-## Notes
+Notes
 This project intentionally avoids deep learning approaches.
 
 All processing steps are explainable and suitable for academic purposes.
-
-The code structure is kept simple and readable to reflect a student-level implementation.
