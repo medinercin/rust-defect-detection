@@ -1,0 +1,9 @@
+BBL588E - Baseline Segmentation Sonuç Özeti
+Toplam değerlendirilen görüntü: 174
+
+Mean IoU:       0.1713
+Mean Precision: 0.3037
+Mean Recall:    0.3236
+Mean F1:        0.2466
+Mean Accuracy:  0.9403
+Mean |RAR error|: 0.044306

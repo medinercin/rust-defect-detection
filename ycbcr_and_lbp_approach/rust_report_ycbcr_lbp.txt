@@ -1,0 +1,1578 @@
+================================================================================
+RUST DETECTION REPORT (YCbCr + LBP)
+================================================================================
+Total images: 174
+Average rust ratio: 2.37%
+Average IoU: 0.4163
+Average Precision: 0.7744
+Average Recall: 0.4976
+
+--------------------------------------------------------------------------------
+PER-IMAGE
+--------------------------------------------------------------------------------
+
+Image: 004.png
+  rust_ratio: 0.58%
+  cr_thr: 131.00
+  tex_thr: 24.5608
+  IoU: 0.1081
+  Dice: 0.1952
+  Precision: 0.2274
+  Recall: 0.1710
+
+Image: 006.png
+  rust_ratio: 0.26%
+  cr_thr: 128.00
+  tex_thr: 13.9537
+  IoU: 0.2353
+  Dice: 0.3810
+  Precision: 0.9878
+  Recall: 0.2360
+
+Image: 009.png
+  rust_ratio: 5.28%
+  cr_thr: 132.00
+  tex_thr: 27.5089
+  IoU: 0.2023
+  Dice: 0.3366
+  Precision: 0.6162
+  Recall: 0.2315
+
+Image: 012.png
+  rust_ratio: 0.55%
+  cr_thr: 129.00
+  tex_thr: 22.6411
+  IoU: 0.3070
+  Dice: 0.4698
+  Precision: 0.5043
+  Recall: 0.4396
+
+Image: 014.png
+  rust_ratio: 7.12%
+  cr_thr: 133.00
+  tex_thr: 33.0364
+  IoU: 0.4745
+  Dice: 0.6436
+  Precision: 0.9974
+  Recall: 0.4751
+
+Image: 026.png
+  rust_ratio: 0.19%
+  cr_thr: 132.00
+  tex_thr: 13.7005
+  IoU: 0.1972
+  Dice: 0.3294
+  Precision: 0.9851
+  Recall: 0.1978
+
+Image: 038.png
+  rust_ratio: 1.84%
+  cr_thr: 133.00
+  tex_thr: 32.4393
+  IoU: 0.3052
+  Dice: 0.4677
+  Precision: 0.5465
+  Recall: 0.4088
+
+Image: 040.png
+  rust_ratio: 2.06%
+  cr_thr: 132.00
+  tex_thr: 27.6324
+  IoU: 0.4967
+  Dice: 0.6637
+  Precision: 0.7275
+  Recall: 0.6102
+
+Image: 041.png
+  rust_ratio: 0.97%
+  cr_thr: 124.00
+  tex_thr: 16.6900
+  IoU: 0.4544
+  Dice: 0.6249
+  Precision: 0.9476
+  Recall: 0.4661
+
+Image: 044.png
+  rust_ratio: 0.34%
+  cr_thr: 131.00
+  tex_thr: 24.8911
+  IoU: 0.3893
+  Dice: 0.5604
+  Precision: 0.9635
+  Recall: 0.3951
+
+Image: 046.png
+  rust_ratio: 9.80%
+  cr_thr: 136.00
+  tex_thr: 34.1594
+  IoU: 0.5634
+  Dice: 0.7208
+  Precision: 0.9989
+  Recall: 0.5638
+
+Image: 048.png
+  rust_ratio: 3.38%
+  cr_thr: 134.00
+  tex_thr: 23.7808
+  IoU: 0.4356
+  Dice: 0.6068
+  Precision: 0.9151
+  Recall: 0.4539
+
+Image: 051.png
+  rust_ratio: 2.81%
+  cr_thr: 131.00
+  tex_thr: 26.1235
+  IoU: 0.5206
+  Dice: 0.6847
+  Precision: 0.8024
+  Recall: 0.5972
+
+Image: 056.png
+  rust_ratio: 0.04%
+  cr_thr: 132.00
+  tex_thr: 9.7297
+  IoU: 0.2157
+  Dice: 0.3549
+  Precision: 0.5000
+  Recall: 0.2750
+
+Image: 066.png
+  rust_ratio: 3.17%
+  cr_thr: 129.00
+  tex_thr: 26.0110
+  IoU: 0.4387
+  Dice: 0.6099
+  Precision: 0.9986
+  Recall: 0.4390
+
+Image: 067.png
+  rust_ratio: 12.15%
+  cr_thr: 132.00
+  tex_thr: 32.7659
+  IoU: 0.6588
+  Dice: 0.7943
+  Precision: 0.9758
+  Recall: 0.6697
+
+Image: 077.png
+  rust_ratio: 0.10%
+  cr_thr: 132.00
+  tex_thr: 14.4557
+  IoU: 0.5266
+  Dice: 0.6899
+  Precision: 0.8260
+  Recall: 0.5923
+
+Image: 078.png
+  rust_ratio: 0.43%
+  cr_thr: 130.00
+  tex_thr: 21.5491
+  IoU: 0.2019
+  Dice: 0.3360
+  Precision: 0.4547
+  Recall: 0.2665
+
+Image: 080.png
+  rust_ratio: 0.61%
+  cr_thr: 132.00
+  tex_thr: 18.9934
+  IoU: 0.5044
+  Dice: 0.6706
+  Precision: 0.9293
+  Recall: 0.5245
+
+Image: 086.png
+  rust_ratio: 1.71%
+  cr_thr: 129.00
+  tex_thr: 23.2700
+  IoU: 0.2057
+  Dice: 0.3413
+  Precision: 1.0000
+  Recall: 0.2057
+
+Image: 088.png
+  rust_ratio: 1.50%
+  cr_thr: 134.00
+  tex_thr: 20.6267
+  IoU: 0.2531
+  Dice: 0.4040
+  Precision: 0.5116
+  Recall: 0.3337
+
+Image: 096.png
+  rust_ratio: 5.20%
+  cr_thr: 129.00
+  tex_thr: 28.7337
+  IoU: 0.6537
+  Dice: 0.7906
+  Precision: 0.9316
+  Recall: 0.6867
+
+Image: 097.png
+  rust_ratio: 4.79%
+  cr_thr: 129.00
+  tex_thr: 21.0801
+  IoU: 0.5851
+  Dice: 0.7383
+  Precision: 0.9054
+  Recall: 0.6232
+
+Image: 099.png
+  rust_ratio: 1.93%
+  cr_thr: 134.00
+  tex_thr: 23.3174
+  IoU: 0.2317
+  Dice: 0.3763
+  Precision: 0.6631
+  Recall: 0.2626
+
+Image: 105.png
+  rust_ratio: 1.12%
+  cr_thr: 133.00
+  tex_thr: 28.0521
+  IoU: 0.4452
+  Dice: 0.6161
+  Precision: 0.9792
+  Recall: 0.4495
+
+Image: 116.png
+  rust_ratio: 4.21%
+  cr_thr: 135.00
+  tex_thr: 19.5248
+  IoU: 0.2124
+  Dice: 0.3504
+  Precision: 0.9427
+  Recall: 0.2152
+
+Image: 119.png
+  rust_ratio: 0.06%
+  cr_thr: 129.00
+  tex_thr: 25.2068
+  IoU: 0.6640
+  Dice: 0.7981
+  Precision: 0.9118
+  Recall: 0.7096
+
+Image: 120.png
+  rust_ratio: 0.61%
+  cr_thr: 135.00
+  tex_thr: 24.3317
+  IoU: 0.1063
+  Dice: 0.1922
+  Precision: 0.9155
+  Recall: 0.1073
+
+Image: 122.png
+  rust_ratio: 0.25%
+  cr_thr: 129.00
+  tex_thr: 12.1136
+  IoU: 0.4849
+  Dice: 0.6531
+  Precision: 0.9904
+  Recall: 0.4872
+
+Image: 130.png
+  rust_ratio: 1.30%
+  cr_thr: 132.00
+  tex_thr: 25.7541
+  IoU: 0.0536
+  Dice: 0.1018
+  Precision: 0.1129
+  Recall: 0.0927
+
+Image: 140.png
+  rust_ratio: 0.59%
+  cr_thr: 129.00
+  tex_thr: 18.7977
+  IoU: 0.3382
+  Dice: 0.5055
+  Precision: 0.9693
+  Recall: 0.3419
+
+Image: 143.png
+  rust_ratio: 4.34%
+  cr_thr: 127.00
+  tex_thr: 20.5532
+  IoU: 0.2597
+  Dice: 0.4123
+  Precision: 0.4593
+  Recall: 0.3740
+
+Image: 144.png
+  rust_ratio: 4.74%
+  cr_thr: 132.00
+  tex_thr: 31.9226
+  IoU: 0.2675
+  Dice: 0.4220
+  Precision: 0.9915
+  Recall: 0.2681
+
+Image: 150.png
+  rust_ratio: 0.26%
+  cr_thr: 133.00
+  tex_thr: 19.2296
+  IoU: 0.5083
+  Dice: 0.6740
+  Precision: 0.9635
+  Recall: 0.5183
+
+Image: 153.png
+  rust_ratio: 5.09%
+  cr_thr: 132.00
+  tex_thr: 19.6159
+  IoU: 0.4446
+  Dice: 0.6155
+  Precision: 0.6025
+  Recall: 0.6291
+
+Image: 154.png
+  rust_ratio: 0.86%
+  cr_thr: 131.00
+  tex_thr: 22.0415
+  IoU: 0.2903
+  Dice: 0.4500
+  Precision: 0.9988
+  Recall: 0.2904
+
+Image: 157.png
+  rust_ratio: 2.30%
+  cr_thr: 127.00
+  tex_thr: 16.1674
+  IoU: 0.4877
+  Dice: 0.6556
+  Precision: 0.9356
+  Recall: 0.5046
+
+Image: 165.png
+  rust_ratio: 1.43%
+  cr_thr: 132.00
+  tex_thr: 18.4292
+  IoU: 0.4772
+  Dice: 0.6461
+  Precision: 0.6149
+  Recall: 0.6807
+
+Image: 169.png
+  rust_ratio: 2.27%
+  cr_thr: 132.00
+  tex_thr: 17.0651
+  IoU: 0.3123
+  Dice: 0.4760
+  Precision: 0.7202
+  Recall: 0.3555
+
+Image: 171.png
+  rust_ratio: 3.05%
+  cr_thr: 132.00
+  tex_thr: 22.8005
+  IoU: 0.4211
+  Dice: 0.5926
+  Precision: 0.9801
+  Recall: 0.4247
+
+Image: 179.png
+  rust_ratio: 1.23%
+  cr_thr: 130.00
+  tex_thr: 17.4269
+  IoU: 0.4293
+  Dice: 0.6007
+  Precision: 0.8405
+  Recall: 0.4674
+
+Image: 180.png
+  rust_ratio: 4.75%
+  cr_thr: 129.00
+  tex_thr: 20.4394
+  IoU: 0.5514
+  Dice: 0.7108
+  Precision: 0.8275
+  Recall: 0.6230
+
+Image: 188.png
+  rust_ratio: 1.34%
+  cr_thr: 129.00
+  tex_thr: 21.2308
+  IoU: 0.2405
+  Dice: 0.3878
+  Precision: 0.4209
+  Recall: 0.3594
+
+Image: 196.png
+  rust_ratio: 11.22%
+  cr_thr: 128.00
+  tex_thr: 29.3399
+  IoU: 0.5033
+  Dice: 0.6696
+  Precision: 0.5976
+  Recall: 0.7613
+
+Image: 198.png
+  rust_ratio: 6.20%
+  cr_thr: 133.00
+  tex_thr: 23.1632
+  IoU: 0.2039
+  Dice: 0.3388
+  Precision: 0.9775
+  Recall: 0.2049
+
+Image: 206.png
+  rust_ratio: 0.14%
+  cr_thr: 124.00
+  tex_thr: 14.1961
+  IoU: 0.5465
+  Dice: 0.7068
+  Precision: 1.0000
+  Recall: 0.5465
+
+Image: 209.png
+  rust_ratio: 0.39%
+  cr_thr: 128.00
+  tex_thr: 28.2673
+  IoU: 0.2653
+  Dice: 0.4193
+  Precision: 0.3335
+  Recall: 0.5647
+
+Image: 210.png
+  rust_ratio: 0.88%
+  cr_thr: 132.00
+  tex_thr: 19.5304
+  IoU: 0.5581
+  Dice: 0.7164
+  Precision: 0.7516
+  Recall: 0.6843
+
+Image: 211.png
+  rust_ratio: 1.88%
+  cr_thr: 132.00
+  tex_thr: 31.2632
+  IoU: 0.4462
+  Dice: 0.6171
+  Precision: 0.4841
+  Recall: 0.8506
+
+Image: 223.png
+  rust_ratio: 0.17%
+  cr_thr: 130.00
+  tex_thr: 30.2877
+  IoU: 0.3307
+  Dice: 0.4970
+  Precision: 0.9844
+  Recall: 0.3325
+
+Image: 226.png
+  rust_ratio: 7.43%
+  cr_thr: 133.00
+  tex_thr: 19.4470
+  IoU: 0.3158
+  Dice: 0.4800
+  Precision: 0.9960
+  Recall: 0.3162
+
+Image: 228.png
+  rust_ratio: 2.33%
+  cr_thr: 129.00
+  tex_thr: 19.1228
+  IoU: 0.1958
+  Dice: 0.3275
+  Precision: 0.2316
+  Recall: 0.5589
+
+Image: 232.png
+  rust_ratio: 5.39%
+  cr_thr: 134.00
+  tex_thr: 28.2714
+  IoU: 0.3297
+  Dice: 0.4959
+  Precision: 0.9889
+  Recall: 0.3309
+
+Image: 237.png
+  rust_ratio: 4.53%
+  cr_thr: 132.00
+  tex_thr: 31.3852
+  IoU: 0.2947
+  Dice: 0.4553
+  Precision: 0.3347
+  Recall: 0.7115
+
+Image: 238.png
+  rust_ratio: 2.43%
+  cr_thr: 127.00
+  tex_thr: 24.1974
+  IoU: 0.3065
+  Dice: 0.4691
+  Precision: 0.4276
+  Recall: 0.5196
+
+Image: 251.png
+  rust_ratio: 12.19%
+  cr_thr: 131.00
+  tex_thr: 28.8014
+  IoU: 0.4381
+  Dice: 0.6093
+  Precision: 0.7050
+  Recall: 0.5365
+
+Image: 257.png
+  rust_ratio: 6.96%
+  cr_thr: 133.00
+  tex_thr: 22.7353
+  IoU: 0.6299
+  Dice: 0.7729
+  Precision: 0.7791
+  Recall: 0.7668
+
+Image: 277.png
+  rust_ratio: 0.13%
+  cr_thr: 127.00
+  tex_thr: 13.2571
+  IoU: 0.4124
+  Dice: 0.5839
+  Precision: 0.9777
+  Recall: 0.4163
+
+Image: 281.png
+  rust_ratio: 6.43%
+  cr_thr: 132.00
+  tex_thr: 38.2692
+  IoU: 0.5245
+  Dice: 0.6881
+  Precision: 0.7506
+  Recall: 0.6352
+
+Image: 283.png
+  rust_ratio: 3.90%
+  cr_thr: 132.00
+  tex_thr: 24.2826
+  IoU: 0.2809
+  Dice: 0.4386
+  Precision: 0.3602
+  Recall: 0.5604
+
+Image: 286.png
+  rust_ratio: 3.33%
+  cr_thr: 133.00
+  tex_thr: 19.1797
+  IoU: 0.4698
+  Dice: 0.6393
+  Precision: 0.7445
+  Recall: 0.5601
+
+Image: 287.png
+  rust_ratio: 1.67%
+  cr_thr: 132.00
+  tex_thr: 34.7465
+  IoU: 0.5020
+  Dice: 0.6684
+  Precision: 0.9972
+  Recall: 0.5027
+
+Image: 293.png
+  rust_ratio: 0.95%
+  cr_thr: 131.00
+  tex_thr: 22.5398
+  IoU: 0.4566
+  Dice: 0.6269
+  Precision: 0.6650
+  Recall: 0.5930
+
+Image: 311.png
+  rust_ratio: 0.27%
+  cr_thr: 132.00
+  tex_thr: 21.0892
+  IoU: 0.2277
+  Dice: 0.3709
+  Precision: 0.5057
+  Recall: 0.2929
+
+Image: 313.png
+  rust_ratio: 3.56%
+  cr_thr: 129.00
+  tex_thr: 21.8031
+  IoU: 0.5763
+  Dice: 0.7312
+  Precision: 0.7055
+  Recall: 0.7589
+
+Image: 324.png
+  rust_ratio: 1.15%
+  cr_thr: 129.00
+  tex_thr: 18.0634
+  IoU: 0.4244
+  Dice: 0.5959
+  Precision: 0.7457
+  Recall: 0.4962
+
+Image: 325.png
+  rust_ratio: 3.19%
+  cr_thr: 132.00
+  tex_thr: 23.7753
+  IoU: 0.3341
+  Dice: 0.5008
+  Precision: 0.6194
+  Recall: 0.4204
+
+Image: 327.png
+  rust_ratio: 0.61%
+  cr_thr: 132.00
+  tex_thr: 20.8810
+  IoU: 0.4513
+  Dice: 0.6219
+  Precision: 0.9947
+  Recall: 0.4524
+
+Image: 335.png
+  rust_ratio: 4.79%
+  cr_thr: 132.00
+  tex_thr: 20.6097
+  IoU: 0.4555
+  Dice: 0.6259
+  Precision: 0.6460
+  Recall: 0.6070
+
+Image: 340.png
+  rust_ratio: 1.15%
+  cr_thr: 134.00
+  tex_thr: 19.4068
+  IoU: 0.1322
+  Dice: 0.2336
+  Precision: 0.8152
+  Recall: 0.1363
+
+Image: 348.png
+  rust_ratio: 2.14%
+  cr_thr: 131.00
+  tex_thr: 23.3132
+  IoU: 0.3426
+  Dice: 0.5103
+  Precision: 0.6240
+  Recall: 0.4316
+
+Image: 353.png
+  rust_ratio: 1.43%
+  cr_thr: 132.00
+  tex_thr: 31.4675
+  IoU: 0.2171
+  Dice: 0.3568
+  Precision: 0.9535
+  Recall: 0.2195
+
+Image: 355.png
+  rust_ratio: 3.82%
+  cr_thr: 132.00
+  tex_thr: 23.0748
+  IoU: 0.4749
+  Dice: 0.6439
+  Precision: 0.5439
+  Recall: 0.7891
+
+Image: 359.png
+  rust_ratio: 3.59%
+  cr_thr: 133.00
+  tex_thr: 15.3922
+  IoU: 0.3205
+  Dice: 0.4855
+  Precision: 0.9686
+  Recall: 0.3239
+
+Image: 360.png
+  rust_ratio: 2.44%
+  cr_thr: 129.00
+  tex_thr: 23.0255
+  IoU: 0.5329
+  Dice: 0.6953
+  Precision: 0.9355
+  Recall: 0.5532
+
+Image: 365.png
+  rust_ratio: 0.19%
+  cr_thr: 130.00
+  tex_thr: 24.3577
+  IoU: 0.2458
+  Dice: 0.3946
+  Precision: 0.4297
+  Recall: 0.3649
+
+Image: 366.png
+  rust_ratio: 0.26%
+  cr_thr: 133.00
+  tex_thr: 16.4203
+  IoU: 0.6137
+  Dice: 0.7606
+  Precision: 0.6746
+  Recall: 0.8717
+
+Image: 373.png
+  rust_ratio: 0.80%
+  cr_thr: 134.00
+  tex_thr: 31.2948
+  IoU: 0.3048
+  Dice: 0.4672
+  Precision: 0.9969
+  Recall: 0.3051
+
+Image: 382.png
+  rust_ratio: 0.06%
+  cr_thr: 132.00
+  tex_thr: 18.1541
+  IoU: 0.1548
+  Dice: 0.2681
+  Precision: 0.8605
+  Recall: 0.1588
+
+Image: 383.png
+  rust_ratio: 5.54%
+  cr_thr: 129.00
+  tex_thr: 25.6301
+  IoU: 0.2672
+  Dice: 0.4217
+  Precision: 0.3777
+  Recall: 0.4774
+
+Image: 387.png
+  rust_ratio: 1.90%
+  cr_thr: 129.00
+  tex_thr: 27.2224
+  IoU: 0.6162
+  Dice: 0.7625
+  Precision: 0.8987
+  Recall: 0.6622
+
+Image: 393.png
+  rust_ratio: 1.00%
+  cr_thr: 131.00
+  tex_thr: 32.9934
+  IoU: 0.3553
+  Dice: 0.5243
+  Precision: 0.7571
+  Recall: 0.4010
+
+Image: 397.png
+  rust_ratio: 9.54%
+  cr_thr: 133.00
+  tex_thr: 36.2085
+  IoU: 0.4125
+  Dice: 0.5841
+  Precision: 0.9946
+  Recall: 0.4134
+
+Image: 403.png
+  rust_ratio: 3.33%
+  cr_thr: 132.00
+  tex_thr: 31.4236
+  IoU: 0.2642
+  Dice: 0.4180
+  Precision: 0.9862
+  Recall: 0.2652
+
+Image: 419.png
+  rust_ratio: 0.41%
+  cr_thr: 133.00
+  tex_thr: 25.1527
+  IoU: 0.7262
+  Dice: 0.8414
+  Precision: 0.9685
+  Recall: 0.7438
+
+Image: 430.png
+  rust_ratio: 12.37%
+  cr_thr: 138.00
+  tex_thr: 30.6667
+  IoU: 0.2209
+  Dice: 0.3619
+  Precision: 1.0000
+  Recall: 0.2209
+
+Image: 442.png
+  rust_ratio: 5.90%
+  cr_thr: 129.00
+  tex_thr: 18.0193
+  IoU: 0.5949
+  Dice: 0.7460
+  Precision: 0.8468
+  Recall: 0.6666
+
+Image: 443.png
+  rust_ratio: 1.68%
+  cr_thr: 134.00
+  tex_thr: 31.7997
+  IoU: 0.3703
+  Dice: 0.5404
+  Precision: 0.9911
+  Recall: 0.3715
+
+Image: 445.png
+  rust_ratio: 0.25%
+  cr_thr: 134.00
+  tex_thr: 21.7260
+  IoU: 0.3656
+  Dice: 0.5354
+  Precision: 0.8121
+  Recall: 0.3994
+
+Image: 454.png
+  rust_ratio: 2.94%
+  cr_thr: 132.00
+  tex_thr: 27.2133
+  IoU: 0.1858
+  Dice: 0.3133
+  Precision: 0.5822
+  Recall: 0.2144
+
+Image: 455.png
+  rust_ratio: 1.88%
+  cr_thr: 133.00
+  tex_thr: 30.6200
+  IoU: 0.2229
+  Dice: 0.3646
+  Precision: 0.2689
+  Recall: 0.5658
+
+Image: 458.png
+  rust_ratio: 1.18%
+  cr_thr: 132.00
+  tex_thr: 19.0931
+  IoU: 0.3061
+  Dice: 0.4688
+  Precision: 0.4862
+  Recall: 0.4525
+
+Image: 461.png
+  rust_ratio: 0.95%
+  cr_thr: 129.00
+  tex_thr: 24.2505
+  IoU: 0.3694
+  Dice: 0.5395
+  Precision: 0.4638
+  Recall: 0.6447
+
+Image: 462.png
+  rust_ratio: 4.05%
+  cr_thr: 125.00
+  tex_thr: 28.0193
+  IoU: 0.3302
+  Dice: 0.4964
+  Precision: 0.6123
+  Recall: 0.4174
+
+Image: 463.png
+  rust_ratio: 0.46%
+  cr_thr: 131.00
+  tex_thr: 20.0241
+  IoU: 0.5349
+  Dice: 0.6970
+  Precision: 0.8413
+  Recall: 0.5949
+
+Image: 465.png
+  rust_ratio: 1.85%
+  cr_thr: 134.00
+  tex_thr: 12.9741
+  IoU: 0.1290
+  Dice: 0.2285
+  Precision: 0.9910
+  Recall: 0.1291
+
+Image: 467.png
+  rust_ratio: 1.14%
+  cr_thr: 129.00
+  tex_thr: 27.4568
+  IoU: 0.7035
+  Dice: 0.8259
+  Precision: 0.9154
+  Recall: 0.7524
+
+Image: 469.png
+  rust_ratio: 1.34%
+  cr_thr: 132.00
+  tex_thr: 25.3646
+  IoU: 0.6342
+  Dice: 0.7761
+  Precision: 0.8277
+  Recall: 0.7306
+
+Image: 473.png
+  rust_ratio: 2.34%
+  cr_thr: 135.00
+  tex_thr: 18.7435
+  IoU: 0.6601
+  Dice: 0.7953
+  Precision: 0.9448
+  Recall: 0.6866
+
+Image: 478.png
+  rust_ratio: 1.60%
+  cr_thr: 130.00
+  tex_thr: 20.5624
+  IoU: 0.4034
+  Dice: 0.5749
+  Precision: 0.5734
+  Recall: 0.5763
+
+Image: 485.png
+  rust_ratio: 10.62%
+  cr_thr: 134.00
+  tex_thr: 30.7654
+  IoU: 0.6886
+  Dice: 0.8156
+  Precision: 0.9993
+  Recall: 0.6889
+
+Image: 491.png
+  rust_ratio: 0.48%
+  cr_thr: 130.00
+  tex_thr: 15.5222
+  IoU: 0.1897
+  Dice: 0.3189
+  Precision: 0.5613
+  Recall: 0.2227
+
+Image: 494.png
+  rust_ratio: 1.19%
+  cr_thr: 137.00
+  tex_thr: 19.4772
+  IoU: 0.4154
+  Dice: 0.5870
+  Precision: 0.5458
+  Recall: 0.6348
+
+Image: 509.png
+  rust_ratio: 2.17%
+  cr_thr: 125.00
+  tex_thr: 23.8519
+  IoU: 0.5954
+  Dice: 0.7464
+  Precision: 0.9336
+  Recall: 0.6217
+
+Image: 516.png
+  rust_ratio: 0.13%
+  cr_thr: 132.00
+  tex_thr: 13.2274
+  IoU: 0.1543
+  Dice: 0.2674
+  Precision: 1.0000
+  Recall: 0.1543
+
+Image: 520.png
+  rust_ratio: 0.19%
+  cr_thr: 134.00
+  tex_thr: 29.6230
+  IoU: 0.1282
+  Dice: 0.2273
+  Precision: 0.3522
+  Recall: 0.1678
+
+Image: 522.png
+  rust_ratio: 1.12%
+  cr_thr: 129.00
+  tex_thr: 27.4152
+  IoU: 0.7636
+  Dice: 0.8659
+  Precision: 0.9812
+  Recall: 0.7749
+
+Image: 525.png
+  rust_ratio: 0.14%
+  cr_thr: 131.00
+  tex_thr: 22.8423
+  IoU: 0.5285
+  Dice: 0.6915
+  Precision: 0.7631
+  Recall: 0.6323
+
+Image: 527.png
+  rust_ratio: 1.41%
+  cr_thr: 126.00
+  tex_thr: 26.5889
+  IoU: 0.3551
+  Dice: 0.5241
+  Precision: 0.8706
+  Recall: 0.3749
+
+Image: 530.png
+  rust_ratio: 0.16%
+  cr_thr: 132.00
+  tex_thr: 26.9184
+  IoU: 0.3344
+  Dice: 0.5013
+  Precision: 0.6984
+  Recall: 0.3909
+
+Image: 533.png
+  rust_ratio: 3.14%
+  cr_thr: 132.00
+  tex_thr: 18.4603
+  IoU: 0.5500
+  Dice: 0.7096
+  Precision: 0.8516
+  Recall: 0.6082
+
+Image: 538.png
+  rust_ratio: 3.05%
+  cr_thr: 134.00
+  tex_thr: 26.8588
+  IoU: 0.6847
+  Dice: 0.8129
+  Precision: 0.9661
+  Recall: 0.7016
+
+Image: 545.png
+  rust_ratio: 8.11%
+  cr_thr: 129.00
+  tex_thr: 27.8518
+  IoU: 0.2849
+  Dice: 0.4435
+  Precision: 0.4579
+  Recall: 0.4300
+
+Image: 549.png
+  rust_ratio: 3.16%
+  cr_thr: 129.00
+  tex_thr: 31.9628
+  IoU: 0.6900
+  Dice: 0.8166
+  Precision: 0.9535
+  Recall: 0.7141
+
+Image: 550.png
+  rust_ratio: 9.16%
+  cr_thr: 139.00
+  tex_thr: 30.2167
+  IoU: 0.3376
+  Dice: 0.5048
+  Precision: 1.0000
+  Recall: 0.3376
+
+Image: 557.png
+  rust_ratio: 2.19%
+  cr_thr: 129.00
+  tex_thr: 24.5005
+  IoU: 0.5354
+  Dice: 0.6974
+  Precision: 0.9581
+  Recall: 0.5482
+
+Image: 558.png
+  rust_ratio: 0.38%
+  cr_thr: 129.00
+  tex_thr: 12.7184
+  IoU: 0.6205
+  Dice: 0.7658
+  Precision: 0.9313
+  Recall: 0.6503
+
+Image: 559.png
+  rust_ratio: 4.18%
+  cr_thr: 133.00
+  tex_thr: 27.0393
+  IoU: 0.2587
+  Dice: 0.4111
+  Precision: 0.7776
+  Recall: 0.2794
+
+Image: 561.png
+  rust_ratio: 0.15%
+  cr_thr: 129.00
+  tex_thr: 21.9326
+  IoU: 0.2912
+  Dice: 0.4510
+  Precision: 0.7338
+  Recall: 0.3256
+
+Image: 563.png
+  rust_ratio: 2.16%
+  cr_thr: 132.00
+  tex_thr: 23.3848
+  IoU: 0.5896
+  Dice: 0.7418
+  Precision: 0.9699
+  Recall: 0.6006
+
+Image: 573.png
+  rust_ratio: 1.77%
+  cr_thr: 130.00
+  tex_thr: 32.4801
+  IoU: 0.2567
+  Dice: 0.4086
+  Precision: 0.5325
+  Recall: 0.3314
+
+Image: 579.png
+  rust_ratio: 0.95%
+  cr_thr: 135.00
+  tex_thr: 30.1173
+  IoU: 0.3757
+  Dice: 0.5462
+  Precision: 0.9845
+  Recall: 0.3779
+
+Image: 580.png
+  rust_ratio: 0.70%
+  cr_thr: 131.00
+  tex_thr: 32.2619
+  IoU: 0.6583
+  Dice: 0.7939
+  Precision: 0.8091
+  Recall: 0.7793
+
+Image: 590.png
+  rust_ratio: 0.13%
+  cr_thr: 127.00
+  tex_thr: 20.0796
+  IoU: 0.4812
+  Dice: 0.6498
+  Precision: 0.9925
+  Recall: 0.4830
+
+Image: 597.png
+  rust_ratio: 0.02%
+  cr_thr: 132.00
+  tex_thr: 12.2153
+  IoU: 0.4302
+  Dice: 0.6016
+  Precision: 0.9569
+  Recall: 0.4387
+
+Image: 598.png
+  rust_ratio: 0.32%
+  cr_thr: 132.00
+  tex_thr: 19.9863
+  IoU: 0.6024
+  Dice: 0.7519
+  Precision: 0.9319
+  Recall: 0.6301
+
+Image: 599.png
+  rust_ratio: 0.23%
+  cr_thr: 123.00
+  tex_thr: 15.4485
+  IoU: 0.3275
+  Dice: 0.4934
+  Precision: 0.9988
+  Recall: 0.3276
+
+Image: 604.png
+  rust_ratio: 2.72%
+  cr_thr: 131.00
+  tex_thr: 23.0103
+  IoU: 0.6462
+  Dice: 0.7851
+  Precision: 0.7537
+  Recall: 0.8192
+
+Image: 605.png
+  rust_ratio: 0.19%
+  cr_thr: 130.00
+  tex_thr: 25.1992
+  IoU: 0.2403
+  Dice: 0.3875
+  Precision: 0.6633
+  Recall: 0.2737
+
+Image: 607.png
+  rust_ratio: 0.49%
+  cr_thr: 131.00
+  tex_thr: 12.9246
+  IoU: 0.5607
+  Dice: 0.7185
+  Precision: 0.6187
+  Recall: 0.8569
+
+Image: 609.png
+  rust_ratio: 5.71%
+  cr_thr: 127.00
+  tex_thr: 27.6790
+  IoU: 0.6750
+  Dice: 0.8059
+  Precision: 0.7558
+  Recall: 0.8632
+
+Image: 611.png
+  rust_ratio: 1.06%
+  cr_thr: 129.00
+  tex_thr: 20.0269
+  IoU: 0.5319
+  Dice: 0.6944
+  Precision: 0.9760
+  Recall: 0.5389
+
+Image: 613.png
+  rust_ratio: 2.71%
+  cr_thr: 129.00
+  tex_thr: 28.0171
+  IoU: 0.3470
+  Dice: 0.5152
+  Precision: 0.4138
+  Recall: 0.6826
+
+Image: 616.png
+  rust_ratio: 0.13%
+  cr_thr: 124.00
+  tex_thr: 17.1429
+  IoU: 0.3751
+  Dice: 0.5455
+  Precision: 1.0000
+  Recall: 0.3751
+
+Image: 617.png
+  rust_ratio: 2.11%
+  cr_thr: 134.00
+  tex_thr: 31.6545
+  IoU: 0.2727
+  Dice: 0.4285
+  Precision: 0.4242
+  Recall: 0.4330
+
+Image: 624.png
+  rust_ratio: 1.01%
+  cr_thr: 127.00
+  tex_thr: 22.6039
+  IoU: 0.4795
+  Dice: 0.6482
+  Precision: 0.5894
+  Recall: 0.7200
+
+Image: 628.png
+  rust_ratio: 0.40%
+  cr_thr: 135.00
+  tex_thr: 16.5612
+  IoU: 0.3702
+  Dice: 0.5403
+  Precision: 0.6765
+  Recall: 0.4498
+
+Image: 629.png
+  rust_ratio: 1.28%
+  cr_thr: 131.00
+  tex_thr: 30.9678
+  IoU: 0.6471
+  Dice: 0.7857
+  Precision: 0.9826
+  Recall: 0.6545
+
+Image: 631.png
+  rust_ratio: 1.26%
+  cr_thr: 129.00
+  tex_thr: 17.9410
+  IoU: 0.4083
+  Dice: 0.5798
+  Precision: 0.7033
+  Recall: 0.4932
+
+Image: 635.png
+  rust_ratio: 1.02%
+  cr_thr: 127.00
+  tex_thr: 16.7504
+  IoU: 0.5656
+  Dice: 0.7226
+  Precision: 0.9809
+  Recall: 0.5719
+
+Image: 637.png
+  rust_ratio: 1.30%
+  cr_thr: 129.00
+  tex_thr: 31.3608
+  IoU: 0.2404
+  Dice: 0.3876
+  Precision: 0.4197
+  Recall: 0.3600
+
+Image: 638.png
+  rust_ratio: 1.95%
+  cr_thr: 123.00
+  tex_thr: 29.7497
+  IoU: 0.6563
+  Dice: 0.7925
+  Precision: 0.8694
+  Recall: 0.7282
+
+Image: 639.png
+  rust_ratio: 0.31%
+  cr_thr: 130.00
+  tex_thr: 25.7481
+  IoU: 0.6515
+  Dice: 0.7890
+  Precision: 0.9936
+  Recall: 0.6542
+
+Image: 642.png
+  rust_ratio: 0.85%
+  cr_thr: 124.00
+  tex_thr: 20.6284
+  IoU: 0.3434
+  Dice: 0.5113
+  Precision: 0.8888
+  Recall: 0.3589
+
+Image: 645.png
+  rust_ratio: 0.90%
+  cr_thr: 123.00
+  tex_thr: 16.6653
+  IoU: 0.5836
+  Dice: 0.7371
+  Precision: 0.9860
+  Recall: 0.5885
+
+Image: 646.png
+  rust_ratio: 0.98%
+  cr_thr: 131.00
+  tex_thr: 29.7680
+  IoU: 0.2592
+  Dice: 0.4117
+  Precision: 0.9997
+  Recall: 0.2592
+
+Image: 649.png
+  rust_ratio: 0.40%
+  cr_thr: 129.00
+  tex_thr: 12.1355
+  IoU: 0.7067
+  Dice: 0.8281
+  Precision: 0.8556
+  Recall: 0.8024
+
+Image: 653.png
+  rust_ratio: 3.79%
+  cr_thr: 134.00
+  tex_thr: 30.8599
+  IoU: 0.6352
+  Dice: 0.7769
+  Precision: 0.9841
+  Recall: 0.6418
+
+Image: 657.png
+  rust_ratio: 3.49%
+  cr_thr: 130.00
+  tex_thr: 24.3456
+  IoU: 0.4622
+  Dice: 0.6322
+  Precision: 0.9545
+  Recall: 0.4726
+
+Image: 658.png
+  rust_ratio: 3.81%
+  cr_thr: 130.00
+  tex_thr: 29.2660
+  IoU: 0.4259
+  Dice: 0.5974
+  Precision: 0.4626
+  Recall: 0.8428
+
+Image: 663.png
+  rust_ratio: 0.41%
+  cr_thr: 129.00
+  tex_thr: 26.7804
+  IoU: 0.4808
+  Dice: 0.6494
+  Precision: 0.5922
+  Recall: 0.7189
+
+Image: 667.png
+  rust_ratio: 0.65%
+  cr_thr: 132.00
+  tex_thr: 20.7163
+  IoU: 0.3579
+  Dice: 0.5272
+  Precision: 0.4479
+  Recall: 0.6405
+
+Image: 673.png
+  rust_ratio: 0.87%
+  cr_thr: 127.00
+  tex_thr: 19.0067
+  IoU: 0.4287
+  Dice: 0.6002
+  Precision: 0.9946
+  Recall: 0.4297
+
+Image: 675.png
+  rust_ratio: 1.48%
+  cr_thr: 131.00
+  tex_thr: 24.6914
+  IoU: 0.5865
+  Dice: 0.7394
+  Precision: 0.9519
+  Recall: 0.6044
+
+Image: 677.png
+  rust_ratio: 3.47%
+  cr_thr: 129.00
+  tex_thr: 24.4938
+  IoU: 0.5570
+  Dice: 0.7155
+  Precision: 0.7602
+  Recall: 0.6758
+
+Image: 678.png
+  rust_ratio: 1.47%
+  cr_thr: 127.00
+  tex_thr: 17.8337
+  IoU: 0.5530
+  Dice: 0.7121
+  Precision: 0.9932
+  Recall: 0.5551
+
+Image: 680.png
+  rust_ratio: 0.11%
+  cr_thr: 132.00
+  tex_thr: 24.9601
+  IoU: 0.2886
+  Dice: 0.4480
+  Precision: 0.5189
+  Recall: 0.3941
+
+Image: 691.png
+  rust_ratio: 0.58%
+  cr_thr: 128.00
+  tex_thr: 24.7393
+  IoU: 0.2006
+  Dice: 0.3342
+  Precision: 0.2664
+  Recall: 0.4482
+
+Image: 695.png
+  rust_ratio: 2.53%
+  cr_thr: 129.00
+  tex_thr: 24.1482
+  IoU: 0.5361
+  Dice: 0.6980
+  Precision: 0.8717
+  Recall: 0.5821
+
+Image: 697.png
+  rust_ratio: 1.21%
+  cr_thr: 129.00
+  tex_thr: 31.4513
+  IoU: 0.1611
+  Dice: 0.2775
+  Precision: 0.2661
+  Recall: 0.2899
+
+Image: 699.png
+  rust_ratio: 0.26%
+  cr_thr: 127.00
+  tex_thr: 22.1496
+  IoU: 0.6585
+  Dice: 0.7941
+  Precision: 0.9496
+  Recall: 0.6824
+
+Image: 701.png
+  rust_ratio: 0.61%
+  cr_thr: 129.00
+  tex_thr: 29.8790
+  IoU: 0.4431
+  Dice: 0.6141
+  Precision: 0.7670
+  Recall: 0.5120
+
+Image: 703.png
+  rust_ratio: 5.19%
+  cr_thr: 128.00
+  tex_thr: 24.8409
+  IoU: 0.3802
+  Dice: 0.5510
+  Precision: 0.4141
+  Recall: 0.8230
+
+Image: 707.png
+  rust_ratio: 0.20%
+  cr_thr: 131.00
+  tex_thr: 24.0037
+  IoU: 0.2654
+  Dice: 0.4194
+  Precision: 0.9822
+  Recall: 0.2666
+
+Image: 709.png
+  rust_ratio: 4.69%
+  cr_thr: 128.00
+  tex_thr: 28.8094
+  IoU: 0.6030
+  Dice: 0.7524
+  Precision: 0.6886
+  Recall: 0.8292
+
+Image: 712.png
+  rust_ratio: 7.08%
+  cr_thr: 129.00
+  tex_thr: 19.9643
+  IoU: 0.5571
+  Dice: 0.7156
+  Precision: 0.8650
+  Recall: 0.6102
+
+Image: 714.png
+  rust_ratio: 0.23%
+  cr_thr: 129.00
+  tex_thr: 24.8609
+  IoU: 0.6614
+  Dice: 0.7962
+  Precision: 0.9371
+  Recall: 0.6921
+
+Image: 717.png
+  rust_ratio: 1.80%
+  cr_thr: 131.00
+  tex_thr: 30.2490
+  IoU: 0.5178
+  Dice: 0.6823
+  Precision: 0.5870
+  Recall: 0.8147
+
+Image: 721.png
+  rust_ratio: 3.99%
+  cr_thr: 131.00
+  tex_thr: 25.1506
+  IoU: 0.5552
+  Dice: 0.7140
+  Precision: 0.6425
+  Recall: 0.8033
+
+Image: 723.png
+  rust_ratio: 0.05%
+  cr_thr: 129.00
+  tex_thr: 9.9070
+  IoU: 0.2403
+  Dice: 0.3875
+  Precision: 1.0000
+  Recall: 0.2403
+
+Image: 731.png
+  rust_ratio: 1.02%
+  cr_thr: 129.00
+  tex_thr: 22.7722
+  IoU: 0.4877
+  Dice: 0.6557
+  Precision: 0.9980
+  Recall: 0.4882
+
+Image: 732.png
+  rust_ratio: 0.51%
+  cr_thr: 130.00
+  tex_thr: 22.4628
+  IoU: 0.3412
+  Dice: 0.5088
+  Precision: 0.4645
+  Recall: 0.5626
+
+Image: 738.png
+  rust_ratio: 0.50%
+  cr_thr: 129.00
+  tex_thr: 13.8992
+  IoU: 0.5279
+  Dice: 0.6910
+  Precision: 0.9921
+  Recall: 0.5301
+
+Image: 739.png
+  rust_ratio: 2.05%
+  cr_thr: 135.00
+  tex_thr: 22.5707
+  IoU: 0.1792
+  Dice: 0.3039
+  Precision: 0.9961
+  Recall: 0.1793
