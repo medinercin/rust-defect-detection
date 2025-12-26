@@ -4,7 +4,6 @@ Rust Segmentation (IoU + Recall Oriented)
 - Stabilize IoU: line/crack suppression + morphology cleanup
 - LBP: optional SOFT refine (never hard AND). Auto-bypass if it shrinks too much.
 
-Author note (as if from you):
 Bu sürümde amacım pası kaçırmamak (recall) ve aynı zamanda IoU'yu stabil artırmak.
 LBP'yi maske üretiminde keskin bir filtre olarak kullanmadım; çünkü bazı görüntülerde pası da siliyor.
 """
